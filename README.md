@@ -24,7 +24,7 @@ From the dataset the first 8 columns(variables) are the predictor variables, and
 
 The first 5 rows of the data set looks something like this.
 
-
+![](SCREENSHOTS/first5rows.png)
 
 
 Results of bivariate analysis. Here I compared 2 variables. One predictor variable and one target variable. 
