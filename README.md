@@ -8,15 +8,24 @@ This is a classification problem, that predicts if a customer will subscribe to 
 
 VARIABLE - DEFINITION
 
-Id	      -  Unique id of client
-age	      -  Age of client
-Job	      -  Job of the client
-Marital   -	 Marital status of the client
-Education	-  Education of client
-Default	  -  Credit in default(yes/no). Tells us if the customer has any unpaid loans.
-Housing	  -  Housing loan(yes/no). Tells us if the customer has taken a housing loan in the past.
-Loan	    -  Personal loan(yes/no). Tells us if the customer has taken a personal loan in the past.
-Subscribed(target variable) -	Has the client subscribed to the term deposit.
+1.Id	      -  Unique id of client
+
+2.age	      -  Age of client
+
+3.Job	      -  Job of the client
+
+4.Marital   -	 Marital status of the client
+
+5.Education	-  Education of client
+
+6.Default	  -  Credit in default(yes/no). Tells us if the customer has any unpaid loans.
+
+7.Housing	  -  Housing loan(yes/no). Tells us if the customer has taken a housing loan in the past.
+
+
+8.Loan	    -  Personal loan(yes/no). Tells us if the customer has taken a personal loan in the past.
+
+9.Subscribed(target variable) -	Has the client subscribed to the term deposit.
 
 From the dataset the first 8 columns(variables) are the predictor variables, and the final column is the target variable. Using a training data set the model is trained, and the testing data set is used to test the performance of the model when it's given unseen data. 
 
