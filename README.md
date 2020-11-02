@@ -21,3 +21,40 @@ Subscribed(target variable) -	Has the client subscribed to the term deposit.
 From the dataset the first 8 columns(variables) are the predictor variables, and the final column is the target variable. Using a training data set the model is trained, and the testing data set is used to test the performance of the model when it's given unseen data. 
 
 
+
+The first 5 rows of the data set looks something like this.
+
+
+
+
+Results of bivariate analysis. Here I compared 2 variables. One predictor variable and one target variable. 
+I've analysed the relation ships between the following 5 sets of variables.
+
+1. Education of the customer and Subscribed(target variable)
+2. Default status of the customer and Subscribed(target variable)
+3. Housing loan history of customer and Subscribed.
+4. Personal loan history of customer and Subscribed.
+5. Martial status of customer and Subscribed.
+
+ 
+ 
+ ![](SCREENSHOTS/edu_subscribed.png)
+ 
+
+
+ 
+ ![](SCREENSHOTS/defualt_subscribed.png)
+
+
+
+
+ ![](SCREENSHOTS/housing_subscribed.png)
+ 
+
+ ![](SCREENSHOTS/loan_subscribed.png)
+ 
+ 
+ ![](SCREENSHOTS/job_subscribed.png)
+ 
+
+ ![](SCREENSHOTS/marital_subscribed.png)
