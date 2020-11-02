@@ -1,1 +1,1 @@
-The data sets was provided by internshala.
+The data sets were provided by internshala.
