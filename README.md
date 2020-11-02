@@ -58,3 +58,16 @@ I've analysed the relation ships between the following 5 sets of variables.
  
 
  ![](SCREENSHOTS/marital_subscribed.png)
+
+
+For the predictive model I initially used the linear regression model , and I got an accuracy of 85.1%. Then later i used the decision tree model object, and my accuracy of the model went up to 88.56%.
+
+
+
+The first 5 rows of the testing data set before the prediction was made by the model.
+
+ ![](SCREENSHOTS/first5rowstest.png)
+ 
+ 
+ The first 5 rows of the testing data set after the prediction has been made.
+ ![](SCREENSHOTS/first5rowstest2.png)
