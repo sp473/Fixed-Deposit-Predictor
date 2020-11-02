@@ -5,6 +5,25 @@ The data-set used to train this model, has the following columns/features.
 
 This is a classification problem, that predicts if a customer will subscribe to a term deposit based on his personal data, given below.
 
+Packages used:
+The coding portion of this project was done in python entirely, in the Jupyter notebook.
+In the initial stages of the code three python packages were mainly used which were;
+
+1.	pandas: package dealing with creation and manipulation of data sets using data frames.
+
+2.	NumPy: has many advanced mathematical functions.
+
+3.	matplotlib.pyplot: for plotting various graphs.
+
+Later on, during the model building stage the following package was used.
+
+1.	train_test_split: A sub module from the python module sklearn.model_selection  which partitions the data set as specified by the user.
+
+2.	LogisticRegression: A sub module from the module sklearn.linear_model used to perform Logistical Regression.
+
+3.	DecisionTreeClassifier: A sub module from the module sklearn.tree    used to implement decision trees.
+
+
 
 VARIABLE - DEFINITION
 
